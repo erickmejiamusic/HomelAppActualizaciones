@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<sharpUpdate>
+    <update appId="TestApp">
+        <version>2.0.0.0</version>
+        <url>https://raw.githubusercontent.com/erickmejiamusic/HomelAppActualizaciones/main/TestApp.exe</url>
+        <fileName>TestApp2.exe</fileName>
+        <md5>EABA34E858BFB19B2CD43270E5D0A016</md5>
+        <description>Initial update</description>
+        <launchArgs></launchArgs>
+    </update>
+</sharpUpdate>
