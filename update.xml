@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <sharpUpdate>
     <update appId="TestApp">
-        <version>7.0.0.0</version>
+        <version>8.0.0.0</version>
         <url>https://raw.githubusercontent.com/erickmejiamusic/HomelAppActualizaciones/main/TestApp.exe</url>
         <fileName>TestApp.exe</fileName>
         <md5>1500CEC55AF87D65715CF3EF38135D4E</md5>
